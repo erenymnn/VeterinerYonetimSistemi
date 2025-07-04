@@ -5,6 +5,7 @@ public class Kopek extends Hayvan {
     private String tur;
     private String cins;
 
+// dışarıya açmış oluyoruz getter setter yapmaya gerek duymuyoruz - girmesin diye getter setter da ayar yapabilirsin
     public Kopek(String dogumTarihi, boolean kayitli, int asiSayisi, String cins) {
         super(dogumTarihi, kayitli);
         this.asiSayisi = asiSayisi;
