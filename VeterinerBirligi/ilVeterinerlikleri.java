@@ -1,6 +1,7 @@
 package GenericKavramı.VeterinerBirligi;
 
 import java.util.ArrayList;
+//her zaman olan müşteriye kampanya tarzı bir ekleme yapabilirsin fiyat listesi vb
 public class ilVeterinerlikleri {
     private String sehir;
     private int toplamVeterinerSayisi;
